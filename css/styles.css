@@ -1,0 +1,29 @@
+.hide {
+    display: none;
+}
+
+.container{
+    margin: 0 auto;
+    border: 2px solid #000000;
+    width: 100%;
+    text-align: center;
+}
+
+.center-div {
+    width: 100%;
+    text-align: center;
+}
+
+
+.center-half-div {
+    width: 50%;
+    text-align: center;
+}
+
+#btn{
+    margin: 0 auto;
+    border: 2px solid #000000;
+    width: 100%;
+    text-align: center;
+}
+
